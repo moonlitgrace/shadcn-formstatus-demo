@@ -20,7 +20,7 @@ function FormContent() {
 
   return (
     <div className="flex flex-col gap-3 w-[300px] border rounded-lg p-3">
-      <h2 className="font-bold">Form with Input</h2>
+      <h2 className="font-bold">Form with Select</h2>
       <p className="text-neutral-500">
         This is a form with a shadcn/ui Select.
         <br />
